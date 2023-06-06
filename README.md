@@ -38,5 +38,5 @@ pip install pycaw
 3.Adjust the volume by moving your thumb and index finger closer or farther apart.
 4.The system volume will change based on the distance between your fingers.
 
-#Contributers
-Aditya Ranjan
+## Contributers
+-Aditya Ranjan
