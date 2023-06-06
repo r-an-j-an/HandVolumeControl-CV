@@ -8,8 +8,8 @@ The project consists of two Python scripts: `HANDTRACKINGMODULE.py` and `VolumeC
 ## Screeshots:
 <p align="center"> <img width="500" src="https://github.com/r-an-j-an/HandVolumeControl-CV/assets/100189617/ce126c2a-3afa-412e-8671-5b7d3bfac1b1" alt="Max"> </p>
 <p align="center"> <img width="500" src="https://github.com/r-an-j-an/HandVolumeControl-CV/assets/100189617/c4f8aa99-6769-46de-9ce9-f7dfd287ade6" alt="Max"> </p>
-<p align="center"> <img width="200" src="https://github.com/r-an-j-an/HandVolumeControl-CV/assets/100189617/eb430b94-81fa-4346-8f71-75d4ed107c61" alt="Max"> </p>
-<p align="center"> <img width="200" src="https://github.com/r-an-j-an/HandVolumeControl-CV/assets/100189617/314daacf-e608-4fce-b86a-0e7f2c13449d" alt="Max"> </p>
+<p align="center"> <img width="500" src="https://github.com/r-an-j-an/HandVolumeControl-CV/assets/100189617/eb430b94-81fa-4346-8f71-75d4ed107c61" alt="Max"> </p>
+<p align="center"> <img width="500" src="https://github.com/r-an-j-an/HandVolumeControl-CV/assets/100189617/314daacf-e608-4fce-b86a-0e7f2c13449d" alt="Max"> </p>
 
 
 ## Prerequisites  
